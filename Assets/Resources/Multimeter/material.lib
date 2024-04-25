@@ -1,0 +1,332 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 02/09/2024 01:37:45
+
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.001
+	illum 2
+	Kd 0.00722105 0.00722105 0.00722105
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.006
+	illum 2
+	Kd 0 0.0220845 0.00123049
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.001
+	illum 2
+	Kd 0.00722105 0.00722105 0.00722105
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.003
+	illum 2
+	Kd 0.324574 0.124236 0.369413
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.005
+	illum 2
+	Kd 0.8 0 0.00514693
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.005
+	illum 2
+	Kd 0.8 0 0.00514693
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004
+	illum 2
+	Kd 0.060451 0.060451 0.060451
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.005
+	illum 2
+	Kd 0.8 0 0.00514693
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.571701 0.146811 0
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_0
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.6
+	Pm 0
+	d 1
+	Tr 0
